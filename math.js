@@ -17,6 +17,7 @@ function div(a, b) {
   } else {
     return parseInt(a) / parseInt(b);
   }
+  
 }
 
 // fs.append(`The result is ${sum(a,b)}`);
@@ -25,5 +26,6 @@ fs.appendFile("ans.txt", `\nThe result is sum: ${sum(a, b)} \n sub: ${sub(a, b)}
     console.error(`Error appending Hello ${sum(a, b)}`, err);
   } else {
     console.log(`\nThe result is sum: ${sum(a, b)} \n sub: ${sub(a, b)} \n mult: ${mult(a, b)} \n div: ${div(a, b)} \n`);
+
   }
 });
