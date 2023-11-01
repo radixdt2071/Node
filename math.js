@@ -7,6 +7,7 @@ function sum(a, b) {
 }
 function sub(a, b) {
   return parseInt(a) - parseInt(b);
+  
 }
 function mult(a, b) {
   return parseInt(a) * parseInt(b);
