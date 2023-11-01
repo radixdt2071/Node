@@ -1,0 +1,12 @@
+
+The result is 12
+
+The result is sum: 12 
+ sub: -2 
+ mult: 35 
+ div: 0.7142857142857143 
+
+The result is sum: 17 
+ sub: 3 
+ mult: 70 
+ div: 1.4285714285714286 
